@@ -1,6 +1,6 @@
 ###
 # The solution of the problem at hacker rank.
-# https://www.hackerrank.com/challenges/chocolate-feast/
+# https://www.hackerrank.com/challenges/chocolate-feast
 # Mete Kabak
 ##
 

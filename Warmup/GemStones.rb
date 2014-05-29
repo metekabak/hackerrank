@@ -1,6 +1,6 @@
 ###
 # The solution of the problem at hacker rank.
-# https://www.hackerrank.com/submissions/code/1549426
+# https://www.hackerrank.com/challenges/gem-stones
 # Mete Kabak
 ##
 

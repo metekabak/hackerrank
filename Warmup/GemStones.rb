@@ -21,7 +21,7 @@ end
 for i in 0...N do
   ent = gets.split("/n").each do |j|
     $inputs << j
-  end 
+  end
 end
 
 $inputs.each do |j|
